@@ -3,7 +3,7 @@ server:
 spring:
   files:
     yamlFiles:
-      - dataId: nanjing.yml
+      - dataId: suzhou.yml
         group: DEFAULT_GROUP
     branches:
       - master
